@@ -1,4 +1,4 @@
-# IHCPSS Programming challenge 2023
+# IHPCSS Programming challenge 2024
 
 ## Presentation slides
 Tips and guidelines for the programming challenge are given in the presentation slides, available on the Moodle page at https://www.hpc-training.org/xsede/moodle/course/view.php?id=79&section=5.
