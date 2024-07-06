@@ -1,7 +1,7 @@
 # IHPCSS Programming challenge 2024
 
 ## Presentation slides
-Tips and guidelines for the programming challenge are given in the presentation slides, available on the Moodle page at https://www.hpc-training.org/xsede/moodle/course/view.php?id=79&section=5.
+Tips and guidelines for the programming challenge are given in the presentation slides, available on the Moodle page at https://www.hpc-training.org/moodle/course/view.php?id=93#section-6.
 
 ## Run on compute nodes
 You do not have GPUs on the login node. You **must** submit your job to compute nodes.
