@@ -49,4 +49,4 @@ Every time you wonder if something is allowed, feel free to ask. You are welcome
 From experience, the repository regularly gets updates to clarify further which optimisations are and are not allowed, and having patches to fix any bugs that had done been spotted yet.
 
 Therefore, you are **strongly encouraged** to regularly check this repository for updates, issuing `git pull` for instance.
-Updates will also be posted on the slack channel https://ihpcss.slack.com/archives/C05G5L49T35.
+Updates will also be posted on the slack channel https://ihpcss.slack.com/archives/C070MQHLPBQ.
