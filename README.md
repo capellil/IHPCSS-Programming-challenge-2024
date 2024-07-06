@@ -26,7 +26,7 @@ You are absolutely welcome to participate to the programming challenge for fun, 
 All submissions must be received at **Thursday 23:59 at the latest**. In other words, email received at Thursday 23:59 is fine, but Friday 00:00 is not.
 
 ### Teams
-Teams must be made of between 1 and 4 individuals.
+Teams must be made of between 1 and 3 individuals.
 
 ### Process
 To submit, just send me an email at l.capelli@epcc.ed.ac.uk containing:
