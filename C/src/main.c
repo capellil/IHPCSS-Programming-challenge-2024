@@ -44,7 +44,7 @@ void initialize_graph(void)
  * @brief Calculates the pagerank of all vertices in the graph.
  * @param pagerank The array in which store the final pageranks.
  */
-void calculate_pagerank(double pagerank[])
+void calculate_pagerank(double pagerank[], int rank, int size)
 {
     double initial_rank = 1.0 / GRAPH_ORDER;
  
@@ -75,8 +75,8 @@ void calculate_pagerank(double pagerank[])
         {
             new_pagerank[i] = 0.0;
         }
- 
-		for(int i = 0; i < GRAPH_ORDER; i++)
+
+		for(int i = rank; i < GRAPH_ORDER; i += size)
         {
 			for(int j = 0; j < GRAPH_ORDER; j++)
             {
@@ -95,7 +95,8 @@ void calculate_pagerank(double pagerank[])
 				}
 			}
 		}
- 
+        MPI_Allreduce(MPI_IN_PLACE, &new_pagerank, GRAPH_ORDER, MPI_DOUBLE, MPI_SUM, MPI_COMM_WORLD);
+
         for(int i = 0; i < GRAPH_ORDER; i++)
         {
             new_pagerank[i] = DAMPING_FACTOR * new_pagerank[i] + damping_value;
@@ -124,7 +125,7 @@ void calculate_pagerank(double pagerank[])
         {
             printf("[ERROR] Iteration %zu: sum of all pageranks is not 1 but %.12f.\n", iteration, pagerank_total);
         }
- 
+
 		double iteration_end = omp_get_wtime();
 		elapsed = omp_get_wtime() - start;
 		iteration++;
@@ -187,6 +188,12 @@ int main(int argc, char* argv[])
     // We do not need argv, this line silences potential compilation warnings.
     (void) argv;
 
+    MPI_Init(&argc, &argv);
+
+    int rank, size;
+    MPI_Comm_rank(MPI_COMM_WORLD, &rank);
+    MPI_Comm_size(MPI_COMM_WORLD, &size);
+
     printf("This program has two graph generators: generate_nice_graph and generate_sneaky_graph. If you intend to submit, your code will be timed on the sneaky graph, remember to try both.\n");
 
     // Get the time at the very start.
@@ -197,7 +204,7 @@ int main(int argc, char* argv[])
  
     /// The array in which each vertex pagerank is stored.
     double pagerank[GRAPH_ORDER];
-    calculate_pagerank(pagerank);
+    calculate_pagerank(pagerank, rank, size);
  
     // Calculates the sum of all pageranks. It should be 1.0, so it can be used as a quick verification.
     double sum_ranks = 0.0;
@@ -213,6 +220,7 @@ int main(int argc, char* argv[])
     double end = omp_get_wtime();
  
     printf("Total time taken: %.2f seconds.\n", end - start);
- 
+    
+    MPI_Finalize();
     return 0;
 }

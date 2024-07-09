@@ -1,0 +1,1747 @@
+mpicc -o bin/main src/main_mpi.c -O2 -Wall -mp=gpu -fopenmp -lm
+nvc-Warning-CUDA_HOME has been deprecated. Please, use NVHPC_CUDA_HOME instead.
+2
+[l012.ib.bridges2.psc.edu:45167] MCW rank 0 is not bound (or bound to all available processors)
+[l013.ib.bridges2.psc.edu:21270] MCW rank 1 is not bound (or bound to all available processors)
+This program has two graph generators: generate_nice_graph and generate_sneaky_graph. If you intend to submit, your code will be timed on the sneaky graph, remember to try both.
+This program has two graph generators: generate_nice_graph and generate_sneaky_graph. If you intend to submit, your code will be timed on the sneaky graph, remember to try both.
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+0.00 seconds to generate the graph.
+After init the new_pagerank takes 0.000000953674.
+0.00 seconds to generate the graph.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.045608043671.
+This iteration takes 0.045625209808.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.046642065048.
+This iteration takes 0.046659946442.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034815073013.
+This iteration takes 0.034821033478.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034651994705.
+This iteration takes 0.034657001495.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034749984741.
+This iteration takes 0.034754991531.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034716129303.
+This iteration takes 0.034721136093.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034871101379.
+This iteration takes 0.034874916077.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035129070282.
+This iteration takes 0.035134077072.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034823894501.
+This iteration takes 0.034828901291.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034631013870.
+This iteration takes 0.034636020660.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034739971161.
+This iteration takes 0.034744024277.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034926891327.
+This iteration takes 0.034930944443.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034764051437.
+This iteration takes 0.034768104553.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034556150436.
+This iteration takes 0.034561157227.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034846067429.
+This iteration takes 0.034851074219.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034996986389.
+This iteration takes 0.035001993179.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034805059433.
+This iteration takes 0.034809112549.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034596920013.
+This iteration takes 0.034601926804.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034898042679.
+This iteration takes 0.034903049469.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035210847855.
+This iteration takes 0.035215854645.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.035201072693.
+This iteration takes 0.035206079483.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035202026367.
+This iteration takes 0.035207033157.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034507989883.
+This iteration takes 0.034511804581.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034909009933.
+This iteration takes 0.034914016724.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034894943237.
+This iteration takes 0.034899950027.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035426855087.
+This iteration takes 0.035431861877.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034722089767.
+This iteration takes 0.034727096558.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035380840302.
+This iteration takes 0.035385847092.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.034543991089.
+This iteration takes 0.034548997879.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035207986832.
+This iteration takes 0.035212039948.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035202980042.
+This iteration takes 0.035207986832.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034741878510.
+This iteration takes 0.034747838974.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.034831047058.
+This iteration takes 0.034836053848.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034986019135.
+This iteration takes 0.034991025925.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.034923076630.
+This iteration takes 0.034928083420.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035049200058.
+This iteration takes 0.035054206848.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034836053848.
+This iteration takes 0.034841060638.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034628868103.
+This iteration takes 0.034633874893.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034950971603.
+This iteration takes 0.034955978394.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035202980042.
+This iteration takes 0.035208940506.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034888029099.
+This iteration takes 0.034893035889.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035278797150.
+This iteration takes 0.035283803940.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034847974777.
+This iteration takes 0.034852981567.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035208940506.
+This iteration takes 0.035213947296.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034957885742.
+This iteration takes 0.034962892532.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034841060638.
+This iteration takes 0.034846067429.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.034996986389.
+This iteration takes 0.035001993179.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035185098648.
+This iteration takes 0.035190105438.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034524917603.
+This iteration takes 0.034529924393.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035094022751.
+This iteration takes 0.035099029541.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034797906876.
+This iteration takes 0.034801959991.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035282850266.
+This iteration takes 0.035287857056.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.035717010498.
+This iteration takes 0.035737037659.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035505056381.
+This iteration takes 0.035525083542.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034697055817.
+This iteration takes 0.034702062607.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034951925278.
+This iteration takes 0.034957885742.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034749031067.
+This iteration takes 0.034754037857.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035135030746.
+This iteration takes 0.035138845444.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034769058228.
+This iteration takes 0.034774065018.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035072803497.
+This iteration takes 0.035079002380.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034801006317.
+This iteration takes 0.034806013107.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034667015076.
+This iteration takes 0.034672021866.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034743070602.
+This iteration takes 0.034748077393.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034878015518.
+This iteration takes 0.034883022308.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034806013107.
+This iteration takes 0.034810066223.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034613132477.
+This iteration takes 0.034616947174.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034744977951.
+This iteration takes 0.034749984741.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034833908081.
+This iteration takes 0.034838914871.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034742116928.
+This iteration takes 0.034747123718.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034702062607.
+This iteration takes 0.034707069397.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034654140472.
+This iteration takes 0.034659147263.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034825086594.
+This iteration takes 0.034830093384.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034595012665.
+This iteration takes 0.034600019455.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034988880157.
+This iteration takes 0.034993886948.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034585952759.
+This iteration takes 0.034590959549.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034976005554.
+This iteration takes 0.034980058670.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034611940384.
+This iteration takes 0.034615993500.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034998893738.
+This iteration takes 0.035003900528.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034598827362.
+This iteration takes 0.034603834152.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035090923309.
+This iteration takes 0.035094976425.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034727096558.
+This iteration takes 0.034732103348.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035220861435.
+This iteration takes 0.035225868225.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034733057022.
+This iteration takes 0.034738063812.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035070896149.
+This iteration takes 0.035074949265.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034768104553.
+This iteration takes 0.034773111343.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034896135330.
+This iteration takes 0.034901142120.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034631967545.
+This iteration takes 0.034636974335.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034842014313.
+This iteration takes 0.034847021103.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034501075745.
+This iteration takes 0.034506082535.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034926176071.
+This iteration takes 0.034929990768.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034858942032.
+This iteration takes 0.034863948822.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035286903381.
+This iteration takes 0.035291910172.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035009145737.
+This iteration takes 0.035014152527.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034772872925.
+This iteration takes 0.034777879715.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034868955612.
+This iteration takes 0.034873962402.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034936904907.
+This iteration takes 0.034941911697.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034872055054.
+This iteration takes 0.034877061844.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034758090973.
+This iteration takes 0.034763097763.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034892082214.
+This iteration takes 0.034897089005.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035171031952.
+This iteration takes 0.035176038742.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035099029541.
+This iteration takes 0.035104036331.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035096168518.
+This iteration takes 0.035102128983.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034903049469.
+This iteration takes 0.034908056259.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034604072571.
+This iteration takes 0.034609079361.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034698963165.
+This iteration takes 0.034703969955.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034998893738.
+This iteration takes 0.035003900528.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034991979599.
+This iteration takes 0.034995794296.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034959077835.
+This iteration takes 0.034964084625.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034589052200.
+This iteration takes 0.034594058990.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035064935684.
+This iteration takes 0.035069942474.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034841060638.
+This iteration takes 0.034845113754.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035386085510.
+This iteration takes 0.035392045975.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035079956055.
+This iteration takes 0.035084009171.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034769058228.
+This iteration takes 0.034775018692.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034758090973.
+This iteration takes 0.034763097763.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034801959991.
+This iteration takes 0.034806966782.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034776926041.
+This iteration takes 0.034781932831.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.034944057465.
+This iteration takes 0.034949064255.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034825086594.
+This iteration takes 0.034830093384.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035217046738.
+This iteration takes 0.035222053528.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034660100937.
+This iteration takes 0.034665107727.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035322904587.
+This iteration takes 0.035326957703.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034962177277.
+This iteration takes 0.034965991974.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035592079163.
+This iteration takes 0.035598039627.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035096883774.
+This iteration takes 0.035101890564.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034809112549.
+This iteration takes 0.034814119339.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034638166428.
+This iteration takes 0.034643173218.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035034894943.
+This iteration takes 0.035039901733.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034626007080.
+This iteration takes 0.034631013870.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035079956055.
+This iteration takes 0.035084962845.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034600973129.
+This iteration takes 0.034605979919.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034849882126.
+This iteration takes 0.034854888916.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035120964050.
+This iteration takes 0.035125017166.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034942150116.
+This iteration takes 0.034946203232.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034765958786.
+This iteration takes 0.034770011902.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035073041916.
+This iteration takes 0.035077095032.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034857034683.
+This iteration takes 0.034862041473.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034606933594.
+This iteration takes 0.034611940384.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.034935235977.
+This iteration takes 0.034940004349.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035188198090.
+This iteration takes 0.035192966461.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034449815750.
+This iteration takes 0.034454822540.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034929990768.
+This iteration takes 0.034933805466.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034703016281.
+This iteration takes 0.034708023071.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035182952881.
+This iteration takes 0.035187959671.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034852981567.
+This iteration takes 0.034857988358.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034604072571.
+This iteration takes 0.034609079361.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034865140915.
+This iteration takes 0.034871101379.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035110950470.
+This iteration takes 0.035115957260.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.034695148468.
+This iteration takes 0.034700155258.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035037040710.
+This iteration takes 0.035042047501.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034567117691.
+This iteration takes 0.034571170807.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034929037094.
+This iteration takes 0.034934043884.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034575939178.
+This iteration takes 0.034580945969.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035125017166.
+This iteration takes 0.035131931305.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034535884857.
+This iteration takes 0.034540891647.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034914970398.
+This iteration takes 0.034920930862.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034800052643.
+This iteration takes 0.034805059433.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034874916077.
+This iteration takes 0.034879922867.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034819841385.
+This iteration takes 0.034824848175.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035101175308.
+This iteration takes 0.035106182098.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034672021866.
+This iteration takes 0.034677028656.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035029888153.
+This iteration takes 0.035034894943.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034609079361.
+This iteration takes 0.034614086151.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035245895386.
+This iteration takes 0.035250902176.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034854888916.
+This iteration takes 0.034858942032.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035458087921.
+This iteration takes 0.035464048386.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034991025925.
+This iteration takes 0.034996032715.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034805059433.
+This iteration takes 0.034811019897.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035420179367.
+This iteration takes 0.035427093506.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035423994064.
+This iteration takes 0.035430908203.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034702062607.
+This iteration takes 0.034707069397.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.034739971161.
+This iteration takes 0.034746170044.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035052061081.
+This iteration takes 0.035057067871.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034900903702.
+This iteration takes 0.034906864166.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034665107727.
+This iteration takes 0.034670114517.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035027980804.
+This iteration takes 0.035032987595.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034693002701.
+This iteration takes 0.034698009491.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035204887390.
+This iteration takes 0.035209894180.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034872055054.
+This iteration takes 0.034877061844.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035344123840.
+This iteration takes 0.035349130630.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035002946854.
+This iteration takes 0.035008907318.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034705877304.
+This iteration takes 0.034710884094.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034714937210.
+This iteration takes 0.034719944000.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035016775131.
+This iteration takes 0.035022974014.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035023927689.
+This iteration takes 0.035027980804.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034716844559.
+This iteration takes 0.034721851349.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034703016281.
+This iteration takes 0.034708023071.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035012006760.
+This iteration takes 0.035017013550.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035103797913.
+This iteration takes 0.035107851028.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034859895706.
+This iteration takes 0.034864902496.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034956932068.
+This iteration takes 0.034961938858.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035221099854.
+This iteration takes 0.035226106644.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034974098206.
+This iteration takes 0.034978151321.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034680128098.
+This iteration takes 0.034685134888.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034687995911.
+This iteration takes 0.034693002701.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034754991531.
+This iteration takes 0.034759998322.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034788131714.
+This iteration takes 0.034793138504.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034993171692.
+This iteration takes 0.034998178482.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034592866898.
+This iteration takes 0.034597873688.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034939050674.
+This iteration takes 0.034944057465.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034850835800.
+This iteration takes 0.034855842590.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035192966461.
+This iteration takes 0.035197973251.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034977912903.
+This iteration takes 0.034981966019.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034736871719.
+This iteration takes 0.034741878510.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034929037094.
+This iteration takes 0.034933090210.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035169839859.
+This iteration takes 0.035174846649.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034636974335.
+This iteration takes 0.034641981125.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034981966019.
+This iteration takes 0.034986972809.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034842014313.
+This iteration takes 0.034846067429.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035187959671.
+This iteration takes 0.035192966461.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035039901733.
+This iteration takes 0.035044908524.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034839868546.
+This iteration takes 0.034843921661.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034781932831.
+This iteration takes 0.034785985947.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034976959229.
+This iteration takes 0.034981966019.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034945011139.
+This iteration takes 0.034948825836.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034642934799.
+This iteration takes 0.034647941589.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034565925598.
+This iteration takes 0.034570932388.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034840106964.
+This iteration takes 0.034845113754.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034634828568.
+This iteration takes 0.034639835358.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035107135773.
+This iteration takes 0.035112142563.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034812927246.
+This iteration takes 0.034816980362.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035315990448.
+This iteration takes 0.035320997238.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034907102585.
+This iteration takes 0.034911155701.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034630060196.
+This iteration takes 0.034635066986.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034687042236.
+This iteration takes 0.034692049026.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034960985184.
+This iteration takes 0.034965991974.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034554004669.
+This iteration takes 0.034559011459.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.034944057465.
+This iteration takes 0.034949064255.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035053968430.
+This iteration takes 0.035058975220.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035447120667.
+This iteration takes 0.035452127457.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034979104996.
+This iteration takes 0.034984111786.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034677982330.
+This iteration takes 0.034682035446.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034722089767.
+This iteration takes 0.034727096558.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034855127335.
+This iteration takes 0.034860134125.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034766912460.
+This iteration takes 0.034770965576.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034933090210.
+This iteration takes 0.034936904907.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034871101379.
+This iteration takes 0.034876108170.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034885883331.
+This iteration takes 0.034890890121.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034478187561.
+This iteration takes 0.034483194351.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035025119781.
+This iteration takes 0.035030126572.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035131931305.
+This iteration takes 0.035136938095.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035619020462.
+This iteration takes 0.035624027252.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034878015518.
+This iteration takes 0.034882068634.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034638881683.
+This iteration takes 0.034642934799.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034780025482.
+This iteration takes 0.034784793854.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034919023514.
+This iteration takes 0.034924030304.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034593105316.
+This iteration takes 0.034598112106.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035010814667.
+This iteration takes 0.035015821457.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034993171692.
+This iteration takes 0.034996986389.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034711837769.
+This iteration takes 0.034716844559.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034971952438.
+This iteration takes 0.034976005554.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035135030746.
+This iteration takes 0.035140037537.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034739971161.
+This iteration takes 0.034744977951.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034959077835.
+This iteration takes 0.034962892532.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034865856171.
+This iteration takes 0.034870862961.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035204172134.
+This iteration takes 0.035209178925.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034641981125.
+This iteration takes 0.034647941589.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035028934479.
+This iteration takes 0.035033941269.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034673929214.
+This iteration takes 0.034678936005.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035176038742.
+This iteration takes 0.035181045532.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034626007080.
+This iteration takes 0.034631013870.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035069227219.
+This iteration takes 0.035074234009.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034660816193.
+This iteration takes 0.034664869308.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034914970398.
+This iteration takes 0.034919977188.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035096168518.
+This iteration takes 0.035101175308.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035122871399.
+This iteration takes 0.035126924515.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034646987915.
+This iteration takes 0.034651994705.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034934043884.
+This iteration takes 0.034939050674.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035004854202.
+This iteration takes 0.035009860992.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035336017609.
+This iteration takes 0.035341024399.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034977912903.
+This iteration takes 0.034981966019.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034764051437.
+This iteration takes 0.034770965576.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034835100174.
+This iteration takes 0.034839153290.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035004138947.
+This iteration takes 0.035011053085.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034623146057.
+This iteration takes 0.034636974335.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035043001175.
+This iteration takes 0.035047054291.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035050868988.
+This iteration takes 0.035055875778.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035266876221.
+This iteration takes 0.035280942917.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035108089447.
+This iteration takes 0.035120964050.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035393953323.
+This iteration takes 0.035398006439.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034786939621.
+This iteration takes 0.034791946411.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035042047501.
+This iteration takes 0.035055875778.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035140991211.
+This iteration takes 0.035153865814.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035532951355.
+This iteration takes 0.035537958145.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035040855408.
+This iteration takes 0.035045862198.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035334825516.
+This iteration takes 0.035348892212.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035243988037.
+This iteration takes 0.035257101059.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.035435914993.
+This iteration takes 0.035440921783.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035713195801.
+This iteration takes 0.035729169846.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035722970963.
+This iteration takes 0.035727977753.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035588979721.
+This iteration takes 0.035602092743.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035598993301.
+This iteration takes 0.035602807999.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035417079926.
+This iteration takes 0.035429000854.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.035455942154.
+This iteration takes 0.035460948944.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034757137299.
+This iteration takes 0.034762144089.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035289049149.
+This iteration takes 0.035296201706.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034596920013.
+This iteration takes 0.034603834152.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034949064255.
+This iteration takes 0.034954071045.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034637928009.
+This iteration takes 0.034642934799.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034962892532.
+This iteration takes 0.034968852997.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.034752130508.
+This iteration takes 0.034765005112.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035369157791.
+This iteration takes 0.035374164581.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034883022308.
+This iteration takes 0.034888029099.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035558938980.
+This iteration takes 0.035573005676.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034975051880.
+This iteration takes 0.034989118576.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035511970520.
+This iteration takes 0.035516977310.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034734010696.
+This iteration takes 0.034738063812.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035201072693.
+This iteration takes 0.035212993622.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034842014313.
+This iteration takes 0.034856081009.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035327196121.
+This iteration takes 0.035331010818.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035048961639.
+This iteration takes 0.035063982010.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.035003900528.
+This iteration takes 0.035008907318.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034742116928.
+This iteration takes 0.034747123718.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035162210464.
+This iteration takes 0.035176038742.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034996986389.
+This iteration takes 0.035009860992.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035520076752.
+This iteration takes 0.035523891449.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034964799881.
+This iteration takes 0.034976959229.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034843921661.
+This iteration takes 0.034847974777.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035252094269.
+This iteration takes 0.035262107849.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035516977310.
+This iteration takes 0.035521984100.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035390138626.
+This iteration takes 0.035399913788.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035252094269.
+This iteration takes 0.035256147385.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035826921463.
+This iteration takes 0.035840988159.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035851001740.
+This iteration takes 0.035856008530.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035017013550.
+This iteration takes 0.035022020340.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035254001617.
+This iteration takes 0.035266876221.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034976005554.
+This iteration takes 0.034980058670.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035094976425.
+This iteration takes 0.035106897354.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035223007202.
+This iteration takes 0.035238027573.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035603046417.
+This iteration takes 0.035608053207.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034908056259.
+This iteration takes 0.034913063049.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035378932953.
+This iteration takes 0.035392045975.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035146951675.
+This iteration takes 0.035161018372.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035641908646.
+This iteration takes 0.035646915436.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035383939743.
+This iteration takes 0.035396099091.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035241127014.
+This iteration takes 0.035246133804.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035624027252.
+This iteration takes 0.035637140274.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035750865936.
+This iteration takes 0.035755872726.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035326957703.
+This iteration takes 0.035340070724.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035326004028.
+This iteration takes 0.035331010818.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035290956497.
+This iteration takes 0.035305023193.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035336017609.
+This iteration takes 0.035341024399.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035398006439.
+This iteration takes 0.035411119461.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035436868668.
+This iteration takes 0.035440921783.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034914016724.
+This iteration takes 0.034919023514.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035238027573.
+This iteration takes 0.035250902176.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035015821457.
+This iteration takes 0.035019874573.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035016059875.
+This iteration takes 0.035022974014.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034944057465.
+This iteration takes 0.034948110580.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035104990005.
+This iteration takes 0.035110950470.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034981012344.
+This iteration takes 0.034986019135.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034749984741.
+This iteration takes 0.034756898880.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034625053406.
+This iteration takes 0.034630060196.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034600973129.
+This iteration takes 0.034606933594.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034955024719.
+This iteration takes 0.034966945648.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035180091858.
+This iteration takes 0.035185098648.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034697055817.
+This iteration takes 0.034702062607.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035156011581.
+This iteration takes 0.035161972046.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034832000732.
+This iteration takes 0.034837007523.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034590959549.
+This iteration takes 0.034596920013.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034878969193.
+This iteration takes 0.034883975983.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035129070282.
+This iteration takes 0.035134077072.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035089969635.
+This iteration takes 0.035095930099.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034800052643.
+This iteration takes 0.034806966782.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034507989883.
+This iteration takes 0.034512996674.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034626007080.
+This iteration takes 0.034631967545.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034716129303.
+This iteration takes 0.034721136093.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034718990326.
+This iteration takes 0.034723997116.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034723043442.
+This iteration takes 0.034728050232.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034616947174.
+This iteration takes 0.034622907639.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034693002701.
+This iteration takes 0.034697055817.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034996032715.
+This iteration takes 0.035000801086.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034728050232.
+This iteration takes 0.034734010696.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035391092300.
+This iteration takes 0.035395145416.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034675121307.
+This iteration takes 0.034680128098.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035305023193.
+This iteration takes 0.035310983658.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034949064255.
+This iteration takes 0.034954071045.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034763097763.
+This iteration takes 0.034768104553.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034754037857.
+This iteration takes 0.034759044647.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034799098969.
+This iteration takes 0.034805059433.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034864902496.
+This iteration takes 0.034869909286.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035034179688.
+This iteration takes 0.035041093826.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034924030304.
+This iteration takes 0.034929037094.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034693002701.
+This iteration takes 0.034698963165.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034823179245.
+This iteration takes 0.034828186035.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034839868546.
+This iteration takes 0.034844875336.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034679889679.
+This iteration takes 0.034683942795.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034710168839.
+This iteration takes 0.034715175629.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034839153290.
+This iteration takes 0.034844160080.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034714937210.
+This iteration takes 0.034724950790.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034821033478.
+This iteration takes 0.034826040268.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034997940063.
+This iteration takes 0.035003900528.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034827947617.
+This iteration takes 0.034832954407.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034945011139.
+This iteration takes 0.034950971603.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034575939178.
+This iteration takes 0.034580945969.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035101175308.
+This iteration takes 0.035106182098.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035366058350.
+This iteration takes 0.035372972488.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035714149475.
+This iteration takes 0.035724163055.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034797906876.
+This iteration takes 0.034802913666.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034734964371.
+This iteration takes 0.034740924835.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034662961960.
+This iteration takes 0.034667968750.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034700870514.
+This iteration takes 0.034706830978.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034909963608.
+This iteration takes 0.034916162491.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034859895706.
+This iteration takes 0.034865856171.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034636974335.
+This iteration takes 0.034641981125.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034649848938.
+This iteration takes 0.034654855728.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035064935684.
+This iteration takes 0.035069942474.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035297155380.
+This iteration takes 0.035303115845.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034928798676.
+This iteration takes 0.034933805466.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034644126892.
+This iteration takes 0.034650087357.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034705877304.
+This iteration takes 0.034710884094.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034986972809.
+This iteration takes 0.034992933273.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034909963608.
+This iteration takes 0.034914970398.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034640073776.
+This iteration takes 0.034646034241.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035002946854.
+This iteration takes 0.035007953644.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035274028778.
+This iteration takes 0.035279035568.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035032987595.
+This iteration takes 0.035037994385.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034811019897.
+This iteration takes 0.034816980362.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034767150879.
+This iteration takes 0.034772157669.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034941911697.
+This iteration takes 0.034946918488.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034977912903.
+This iteration takes 0.034982919693.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034977912903.
+This iteration takes 0.034982919693.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034662008286.
+This iteration takes 0.034668922424.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034973144531.
+This iteration takes 0.034978151321.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034751892090.
+This iteration takes 0.034756898880.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035102844238.
+This iteration takes 0.035109043121.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035202026367.
+This iteration takes 0.035206079483.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034991979599.
+This iteration takes 0.035006046295.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035490036011.
+This iteration takes 0.035503864288.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035729885101.
+This iteration takes 0.035734891891.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035351991653.
+This iteration takes 0.035366058350.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035418033600.
+This iteration takes 0.035423040390.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035037040710.
+This iteration takes 0.035041093826.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035490036011.
+This iteration takes 0.035504102707.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034970998764.
+This iteration takes 0.034983873367.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035465002060.
+This iteration takes 0.035470008850.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034710884094.
+This iteration takes 0.034715890884.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035149097443.
+This iteration takes 0.035155057907.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034825086594.
+This iteration takes 0.034829139709.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034866809845.
+This iteration takes 0.034871816635.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034929990768.
+This iteration takes 0.034934997559.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034960985184.
+This iteration takes 0.034965991974.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034851074219.
+This iteration takes 0.034856081009.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034621000290.
+This iteration takes 0.034626007080.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034827947617.
+This iteration takes 0.034832954407.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035053014755.
+This iteration takes 0.035058021545.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034469127655.
+This iteration takes 0.034474134445.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034910202026.
+This iteration takes 0.034914016724.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034737825394.
+This iteration takes 0.034742832184.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035184144974.
+This iteration takes 0.035192966461.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035022020340.
+This iteration takes 0.035034894943.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035511016846.
+This iteration takes 0.035516023636.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035198211670.
+This iteration takes 0.035211086273.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035152912140.
+This iteration takes 0.035157918930.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034807205200.
+This iteration takes 0.034812211990.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035187005997.
+This iteration takes 0.035200119019.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034670829773.
+This iteration takes 0.034687995911.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035101890564.
+This iteration takes 0.035106897354.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035128116608.
+This iteration takes 0.035140991211.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035147905350.
+This iteration takes 0.035151958466.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034981012344.
+This iteration takes 0.034993886948.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035005092621.
+This iteration takes 0.035009145737.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035071849823.
+This iteration takes 0.035084962845.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035107135773.
+This iteration takes 0.035112142563.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034836053848.
+This iteration takes 0.034840822220.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035338163376.
+This iteration takes 0.035346984863.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034619808197.
+This iteration takes 0.034624814987.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035053014755.
+This iteration takes 0.035058975220.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034734964371.
+This iteration takes 0.034739971161.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035175800323.
+This iteration takes 0.035180807114.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035036087036.
+This iteration takes 0.035041093826.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034733057022.
+This iteration takes 0.034738063812.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034933090210.
+This iteration takes 0.034936904907.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035218000412.
+This iteration takes 0.035223007202.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034996986389.
+This iteration takes 0.035001039505.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034723997116.
+This iteration takes 0.034729003906.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034778118134.
+This iteration takes 0.034783124924.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035050153732.
+This iteration takes 0.035055160522.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035074949265.
+This iteration takes 0.035079956055.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035073995590.
+This iteration takes 0.035079002380.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034946918488.
+This iteration takes 0.034951925278.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034713029861.
+This iteration takes 0.034717082977.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034855842590.
+This iteration takes 0.034859895706.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034881114960.
+This iteration takes 0.034887075424.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034701108932.
+This iteration takes 0.034705162048.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034635066986.
+This iteration takes 0.034640073776.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034954071045.
+This iteration takes 0.034958124161.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035232782364.
+This iteration takes 0.035239934921.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034982919693.
+This iteration takes 0.034996032715.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035429954529.
+This iteration takes 0.035434007645.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035003185272.
+This iteration takes 0.035008192062.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035110950470.
+This iteration takes 0.035125017166.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035101890564.
+This iteration takes 0.035115957260.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035305023193.
+This iteration takes 0.035310029984.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034985065460.
+This iteration takes 0.034988880157.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035449028015.
+This iteration takes 0.035460948944.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035407066345.
+This iteration takes 0.035419940948.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035891056061.
+This iteration takes 0.035894870758.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035466909409.
+This iteration takes 0.035478830338.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035470962524.
+This iteration takes 0.035475969315.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035380840302.
+This iteration takes 0.035393953323.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035392045975.
+This iteration takes 0.035397052765.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035398960114.
+This iteration takes 0.035411119461.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035400152206.
+This iteration takes 0.035403966904.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035199165344.
+This iteration takes 0.035212039948.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.035239934921.
+This iteration takes 0.035244941711.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035006046295.
+This iteration takes 0.035011053085.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035540103912.
+This iteration takes 0.035552024841.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.034627199173.
+This iteration takes 0.034636020660.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035006046295.
+This iteration takes 0.035012006760.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034689903259.
+This iteration takes 0.034696817398.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034848213196.
+This iteration takes 0.034853219986.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035146951675.
+This iteration takes 0.035151004791.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035462856293.
+This iteration takes 0.035475969315.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035054922104.
+This iteration takes 0.035068035126.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035216093063.
+This iteration takes 0.035221099854.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034986019135.
+This iteration takes 0.035001039505.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035138130188.
+This iteration takes 0.035143136978.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034942865372.
+This iteration takes 0.034947872162.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035149097443.
+This iteration takes 0.035164117813.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034962892532.
+This iteration takes 0.034976959229.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035202026367.
+This iteration takes 0.035207986832.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034719944000.
+This iteration takes 0.034724950790.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035126924515.
+This iteration takes 0.035139799118.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034839868546.
+This iteration takes 0.034852981567.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035259962082.
+This iteration takes 0.035264968872.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035348176956.
+This iteration takes 0.035360097885.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035373926163.
+This iteration takes 0.035378932953.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035072088242.
+This iteration takes 0.035083055496.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035068988800.
+This iteration takes 0.035073041916.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035279035568.
+This iteration takes 0.035289049149.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035144090652.
+This iteration takes 0.035148143768.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.036257982254.
+This iteration takes 0.036272048950.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.036420106888.
+This iteration takes 0.036425113678.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035315036774.
+This iteration takes 0.035331964493.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035307884216.
+This iteration takes 0.035314083099.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034812927246.
+This iteration takes 0.034817934036.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.035320997238.
+This iteration takes 0.035331010818.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035088062286.
+This iteration takes 0.035102128983.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035562038422.
+This iteration takes 0.035567045212.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035104990005.
+This iteration takes 0.035117149353.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034986972809.
+This iteration takes 0.034991979599.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035259008408.
+This iteration takes 0.035273075104.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035409927368.
+This iteration takes 0.035414934158.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035410881042.
+This iteration takes 0.035423040390.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035424947739.
+This iteration takes 0.035429000854.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035598039627.
+This iteration takes 0.035609960556.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035604953766.
+This iteration takes 0.035609960556.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035483837128.
+This iteration takes 0.035495996475.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035479068756.
+This iteration takes 0.035482883453.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035332918167.
+This iteration takes 0.035346031189.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035337924957.
+This iteration takes 0.035342931747.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035206079483.
+This iteration takes 0.035218954086.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035212039948.
+This iteration takes 0.035217046738.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035202980042.
+This iteration takes 0.035215854645.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035214185715.
+This iteration takes 0.035219192505.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034740924835.
+This iteration takes 0.034745931625.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034904003143.
+This iteration takes 0.034910917282.
+After init the new_pagerank takes 0.000001192093.
+After comppute the new_pagerank takes 0.034682989120.
+This iteration takes 0.034687042236.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034978151321.
+This iteration takes 0.034983158112.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034909009933.
+This iteration takes 0.034914016724.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034637928009.
+This iteration takes 0.034645080566.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034749984741.
+This iteration takes 0.034754991531.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.034715890884.
+This iteration takes 0.034720897675.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035135030746.
+This iteration takes 0.035148143768.
+After init the new_pagerank takes 0.000000953674.
+After comppute the new_pagerank takes 0.035342931747.
+This iteration takes 0.035347938538.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034730195999.
+This iteration takes 0.034735202789.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.035093069077.
+This iteration takes 0.035100936890.
+After init the new_pagerank takes 0.000000000000.
+After comppute the new_pagerank takes 0.034760951996.
+This iteration takes 0.034765958786.
+285 iterations achieved in 9.99 seconds
+PageRank of vertex 0: 0.002541
+PageRank of vertex 100: 0.001726
+PageRank of vertex 200: 0.001494
+PageRank of vertex 300: 0.001302
+PageRank of vertex 400: 0.001127
+PageRank of vertex 500: 0.000962
+PageRank of vertex 600: 0.000800
+PageRank of vertex 700: 0.000641
+PageRank of vertex 800: 0.000483
+PageRank of vertex 900: 0.000322
+Sum of all pageranks = 1.000000000000, total diff = 1.168591825342, max diff = 0.624703182089 and min diff = 0.000000000000.
+Total time taken: 9.99 seconds.
+After comppute the new_pagerank takes 0.034672021866.
+This iteration takes 0.034676790237.
+285 iterations achieved in 9.99 seconds
+PageRank of vertex 0: 0.002541
+PageRank of vertex 100: 0.001726
+PageRank of vertex 200: 0.001494
+PageRank of vertex 300: 0.001302
+PageRank of vertex 400: 0.001127
+PageRank of vertex 500: 0.000962
+PageRank of vertex 600: 0.000800
+PageRank of vertex 700: 0.000641
+PageRank of vertex 800: 0.000483
+PageRank of vertex 900: 0.000322
+Sum of all pageranks = 1.000000000000, total diff = 1.168591825342, max diff = 0.624703182089 and min diff = 0.000000000000.
+Total time taken: 9.99 seconds.
