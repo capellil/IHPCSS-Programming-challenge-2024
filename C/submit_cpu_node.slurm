@@ -8,7 +8,7 @@
 # SLURM will think the line is no-longer a special comment and will ignore it.
 
 # The name of the output file
-#SBATCH -o output.txt
+#SBATCH -o output_sneaky.txt
 
 # The partition to use, shared CPU nodes in this case
 #SBATCH -p RM-shared
