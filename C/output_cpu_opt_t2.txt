@@ -1,0 +1,82 @@
+mpicc -o bin/main src/main_opt_t2.c -O2 -Wall -mp=gpu -fopenmp -lm
+nvc-Warning-CUDA_HOME has been deprecated. Please, use NVHPC_CUDA_HOME instead.
+This program has two graph generators: generate_nice_graph and generate_sneaky_graph. If you intend to submit, your code will be timed on the sneaky graph, remember to try both.
+Generate a graph for testing purposes (i.e.: a nice and conveniently designed graph :) )
+0.00 seconds to generate the graph.
+117 iterations achieved in 9.95 seconds
+PageRank of vertex 0: 0.001000
+PageRank of vertex 100: 0.001000
+PageRank of vertex 200: 0.001000
+PageRank of vertex 300: 0.001000
+PageRank of vertex 400: 0.001000
+PageRank of vertex 500: 0.001000
+PageRank of vertex 600: 0.001000
+PageRank of vertex 700: 0.001000
+PageRank of vertex 800: 0.001000
+PageRank of vertex 900: 0.001000
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 0.000000000000.
+Total time taken: 9.95 seconds.
+This program has two graph generators: generate_nice_graph and generate_sneaky_graph. If you intend to submit, your code will be timed on the sneaky graph, remember to try both.
+Generate a graph for testing purposes (i.e.: a nice and conveniently designed graph :) )
+0.00 seconds to generate the graph.
+118 iterations achieved in 9.97 seconds
+PageRank of vertex 0: 0.001000
+PageRank of vertex 100: 0.001000
+PageRank of vertex 200: 0.001000
+PageRank of vertex 300: 0.001000
+PageRank of vertex 400: 0.001000
+PageRank of vertex 500: 0.001000
+PageRank of vertex 600: 0.001000
+PageRank of vertex 700: 0.001000
+PageRank of vertex 800: 0.001000
+PageRank of vertex 900: 0.001000
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 0.000000000000.
+Total time taken: 9.97 seconds.
+This program has two graph generators: generate_nice_graph and generate_sneaky_graph. If you intend to submit, your code will be timed on the sneaky graph, remember to try both.
+Generate a graph for testing purposes (i.e.: a nice and conveniently designed graph :) )
+0.00 seconds to generate the graph.
+113 iterations achieved in 10.00 seconds
+PageRank of vertex 0: 0.001000
+PageRank of vertex 100: 0.001000
+PageRank of vertex 200: 0.001000
+PageRank of vertex 300: 0.001000
+PageRank of vertex 400: 0.001000
+PageRank of vertex 500: 0.001000
+PageRank of vertex 600: 0.001000
+PageRank of vertex 700: 0.001000
+PageRank of vertex 800: 0.001000
+PageRank of vertex 900: 0.001000
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 0.000000000000.
+Total time taken: 10.00 seconds.
+This program has two graph generators: generate_nice_graph and generate_sneaky_graph. If you intend to submit, your code will be timed on the sneaky graph, remember to try both.
+Generate a graph for testing purposes (i.e.: a nice and conveniently designed graph :) )
+0.00 seconds to generate the graph.
+118 iterations achieved in 9.95 seconds
+PageRank of vertex 0: 0.001000
+PageRank of vertex 100: 0.001000
+PageRank of vertex 200: 0.001000
+PageRank of vertex 300: 0.001000
+PageRank of vertex 400: 0.001000
+PageRank of vertex 500: 0.001000
+PageRank of vertex 600: 0.001000
+PageRank of vertex 700: 0.001000
+PageRank of vertex 800: 0.001000
+PageRank of vertex 900: 0.001000
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 0.000000000000.
+Total time taken: 9.95 seconds.
+This program has two graph generators: generate_nice_graph and generate_sneaky_graph. If you intend to submit, your code will be timed on the sneaky graph, remember to try both.
+Generate a graph for testing purposes (i.e.: a nice and conveniently designed graph :) )
+0.00 seconds to generate the graph.
+118 iterations achieved in 9.97 seconds
+PageRank of vertex 0: 0.001000
+PageRank of vertex 100: 0.001000
+PageRank of vertex 200: 0.001000
+PageRank of vertex 300: 0.001000
+PageRank of vertex 400: 0.001000
+PageRank of vertex 500: 0.001000
+PageRank of vertex 600: 0.001000
+PageRank of vertex 700: 0.001000
+PageRank of vertex 800: 0.001000
+PageRank of vertex 900: 0.001000
+Sum of all pageranks = 1.000000000000, total diff = 0.000000000000, max diff = 0.000000000000 and min diff = 0.000000000000.
+Total time taken: 9.98 seconds.
