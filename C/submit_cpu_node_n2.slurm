@@ -45,3 +45,8 @@ echo $SLURM_NTASKS
 
 # Execute the program
 mpirun -n $SLURM_NTASKS --bind-to none --report-bindings ./bin/main
+
+# After init the new_pagerank takes 0.000000000000.
+# After comppute the new_pagerank takes 0.034760951996.
+# This iteration takes 0.034765958786.
+# 285 iterations achieved in 9.99 seconds

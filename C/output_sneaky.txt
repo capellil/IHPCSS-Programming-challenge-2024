@@ -1,0 +1,18 @@
+mpicc -o bin/main src/main.c -O2 -Wall -mp=gpu -fopenmp -lm
+nvc-Warning-CUDA_HOME has been deprecated. Please, use NVHPC_CUDA_HOME instead.
+This program has two graph generators: generate_nice_graph and generate_sneaky_graph. If you intend to submit, your code will be timed on the sneaky graph, remember to try both.
+Generate a graph for the challenge (i.e.: a sneaky graph :P )
+0.00 seconds to generate the graph.
+102 iterations achieved in 9.98 seconds
+PageRank of vertex 0: 0.002541
+PageRank of vertex 100: 0.001726
+PageRank of vertex 200: 0.001494
+PageRank of vertex 300: 0.001302
+PageRank of vertex 400: 0.001127
+PageRank of vertex 500: 0.000962
+PageRank of vertex 600: 0.000800
+PageRank of vertex 700: 0.000641
+PageRank of vertex 800: 0.000483
+PageRank of vertex 900: 0.000322
+Sum of all pageranks = 1.000000000000, total diff = 1.168591825342, max diff = 0.624703182089 and min diff = 0.000000000000.
+Total time taken: 9.98 seconds.
